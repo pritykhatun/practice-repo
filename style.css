@@ -15,8 +15,15 @@ h2{
 }
 .main-part{
     display: flex;
+    margin-bottom: 200px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.main-part-1{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .heading-part{
     width: 50%;
